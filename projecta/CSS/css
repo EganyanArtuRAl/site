@@ -1,0 +1,6 @@
+.BigRed{
+	font-size: 20px;
+	color:red;
+}
+
+.Smallbue
