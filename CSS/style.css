@@ -1,0 +1,38 @@
+body{
+	background: #8a6c4a;
+	font-family: ComicSans;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	font-family: ComicSans;
+
+}
+.Coffe{
+	font-size: 21px;
+	margin: 30px	 ;
+	border: 1px #000;
+	max-width:px;
+	text-align: right;
+}
+
+.pre{
+	display: inline-block;
+	margin-right:300px ;
+}
+
+.coffe{
+	text-align: none;
+	text-align: right;
+	margin-top: 40px;
+	font-size: 21px;
+	margin-bottom: 100px;
+}
+
+
+.img{
+	display: inline-block;
+	border: 20px solid #574b3d;
+
+}		
